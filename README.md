@@ -1,13 +1,21 @@
 # resources
 ## A personal list of useful resources, tips&tricks and more
 
-### html skeleton generator
+### HTML skeleton generator
 
 The vision is to allow developers start with decent defaults with a single copy-paste. (as seen on TV, no install required)
 
 Too busy with life, universe and everything...
 
 [Click here](http://htmlshell.com/)
+
+___________________________________________________________________________________________________________________________
+
+### CSS start template
+
+A code snippet designed as a CSS starter for your project
+
+[Click here](https://gist.github.com/vrushank-snippets/2594175)
 
 ___________________________________________________________________________________________________________________________
 
