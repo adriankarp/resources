@@ -5,6 +5,7 @@
 ### Code Guide
 
 Standards for developing consistent, flexible, and sustainable HTML and CSS.
+
 [Click here](https://codeguide.co/)
 
 ### WTF, HTML and CSS?
@@ -12,6 +13,7 @@ Standards for developing consistent, flexible, and sustainable HTML and CSS.
 Reasons HTML and CSS might make you say what the fuck. A curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas.
 
 WTF, HTML and CSS? is a list of reasons HTML and CSS might make you say what the fuck. It's a curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas, created with the goal of making them less common.
+
 [Click here](http://wtfhtmlcss.com/)
 
 
