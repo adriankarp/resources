@@ -1,6 +1,13 @@
 # resources
 ## A personal list of useful resources, tips&tricks and more
 
+### html skeleton generator
+
+The vision is to allow developers start with decent defaults with a single copy-paste. (as seen on TV, no install required)
+Too busy with life, universe and everything...
+
+[Click here](http://htmlshell.com/)
+
 
 ### Code Guide
 
