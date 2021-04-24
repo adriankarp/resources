@@ -1,6 +1,22 @@
 # resources
 ## A personal list of useful resources, tips&tricks and more
 
+## Table of contents
+  * [HTML & CSS](#html---css)
+    + [HTML skeleton generator](#html-skeleton-generator)
+    + [CSS start template](#css-start-template)
+    + [Code Guide](#code-guide)
+    + [WTF, HTML and CSS?](#wtf--html-and-css-)
+  * [Bootstrap](#bootstrap)
+    + [Bootstrap examples](#bootstrap-examples)
+    + [Bootstarp 4 template](#bootstarp-4-template)
+    + [How to setup and design a Bootstrap page](#how-to-setup-and-design-a-bootstrap-page)
+  * [A collection of cheatsheets](#a-collection-of-cheatsheets)
+
+
+
+## HTML & CSS
+
 ### HTML skeleton generator
 
 The vision is to allow developers start with decent defaults with a single copy-paste. (as seen on TV, no install required)
@@ -41,8 +57,33 @@ WTF, HTML and CSS? is a list of reasons HTML and CSS might make you say what the
 ___________________________________________________________________________________________________________________________
 
 
+## Bootstrap
 
-### A collection of cheatsheets
+### Bootstrap examples
+
+Quickly get a project started with any of our examples ranging from using parts of the framework to custom components and layouts.
+
+[Click here](https://getbootstrap.com/docs/4.0/examples/)
+
+___________________________________________________________________________________________________________________________
+
+### Bootstarp 4 template
+
+Simple Bootstrap4 , section Template Skeleton with Navigation Bar
+
+[Click here](https://github.com/Abhi5h3k/Bootstrap-4-skeleton-theme)
+
+___________________________________________________________________________________________________________________________
+
+### How to setup and design a Bootstrap page
+
+How to Setup and Use Bootstrap (Step-by-Step)
+
+[Click here](https://websitesetup.org/bootstrap-tutorial-for-beginners/)
+
+___________________________________________________________________________________________________________________________
+
+## A collection of cheatsheets
 
 [HTML](https://htmlcheatsheet.com/)
 
