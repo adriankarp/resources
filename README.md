@@ -36,6 +36,18 @@ A code snippet designed as a CSS starter for your project
 
 ___________________________________________________________________________________________________________________________
 
+### Normalize.css
+
+A modern, HTML5-ready alternative to CSS resets
+
+Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
+
+[Click here for more info](https://necolas.github.io/normalize.css/)
+
+[Click here for .css file](https://github.com/necolas/normalize.css/blob/master/normalize.css)
+
+___________________________________________________________________________________________________________________________
+
 ### Code Guide
 
 Standards for developing consistent, flexible, and sustainable HTML and CSS.
