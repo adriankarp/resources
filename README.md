@@ -5,6 +5,7 @@
   * [HTML & CSS](#html---css)
     + [HTML skeleton generator](#html-skeleton-generator)
     + [CSS start template](#css-start-template)
+    + [Normalize.css](#normalize.css)
     + [Code Guide](#code-guide)
     + [WTF, HTML and CSS?](#wtf--html-and-css-)
   * [Bootstrap](#bootstrap)
