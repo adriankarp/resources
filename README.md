@@ -43,10 +43,10 @@ The ultimate tools for web development
 
 Welcome to Web Code Tools; the best tools for web developers. Here, you’ll find code generators to help you with your front-end web projects.
 
-+[CSS by webcode.tools](https://webcode.tools/generators/css)
-+[HTML by webcode.tools](https://webcode.tools/generators/html)
-+[Meta Tags by webcode.tools](https://webcode.tools/generators/meta-tags)
-+[CSS by Zinglecode](https://css-generator.netlify.app/)
+* [CSS by webcode.tools](https://webcode.tools/generators/css)
+* [HTML by webcode.tools](https://webcode.tools/generators/html)
+* [Meta Tags by webcode.tools](https://webcode.tools/generators/meta-tags)
+* [CSS by Zinglecode](https://css-generator.netlify.app/)
 
 
 ___________________________________________________________________________________________________________________________
