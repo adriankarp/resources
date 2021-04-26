@@ -15,6 +15,8 @@
     + [How to setup and design a Bootstrap page](#how-to-setup-and-design-a-bootstrap-page)
     + [Material design for Bootstrap](#material-design-for-bootstrap)
   * [A collection of cheatsheets](#a-collection-of-cheatsheets)
+  * [Misc.](#misc)
+    + [Unsplash (Free Images & Pictures)](#unsplash)
 
 
 
@@ -137,7 +139,7 @@ ________________________________________________________________________________
 
 ## Misc.
 
-### Unsplash (Free Images & Pictures)
+### Unsplash
 
 The internet’s source of freely-usable images.
 
