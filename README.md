@@ -5,6 +5,7 @@
   * [HTML & CSS](#html---css)
     + [HTML skeleton generator](#html-skeleton-generator)
     + [CSS start template](#css-start-template)
+    + [Generators](#generators)
     + [Normalize.css](#normalizecss)
     + [Code Guide](#code-guide)
     + [WTF, HTML and CSS?](#wtf--html-and-css-)
@@ -36,6 +37,20 @@ A code snippet designed as a CSS starter for your project
 [Click here](https://gist.github.com/vrushank-snippets/2594175)
 
 ___________________________________________________________________________________________________________________________
+### Generators
+
+The ultimate tools for web development
+
+Welcome to Web Code Tools; the best tools for web developers. Here, you’ll find code generators to help you with your front-end web projects.
+
+[CSS by webcode.tools](https://webcode.tools/generators/css)
+
+[HTML by webcode.tools](https://webcode.tools/generators/html)
+
+[Meta Tags by webcode.tools](https://webcode.tools/generators/meta-tags)
+
+[CSS by Zinglecode](https://css-generator.netlify.app/)
+
 
 ### Normalize.css
 
