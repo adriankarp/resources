@@ -1,6 +1,9 @@
 # resources
 ## A personal list of useful resources, tips&tricks and more
 
+
+(TO BE UPDATED! [include Faker.js, Semantic UI, ...])
+
 ## Table of contents
   * [HTML & CSS](#html---css)
     + [HTML skeleton generator](#html-skeleton-generator)
