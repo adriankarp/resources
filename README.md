@@ -2,7 +2,7 @@
 ## A personal list of useful resources, tips&tricks and more
 
 
-(TO BE UPDATED! [include Faker.js, Semantic UI, ...])
+(TO BE UPDATED! [include Faker.js, Semantic UI, Geolocation API ,...])
 
 ## Table of contents
   * [HTML & CSS](#html---css)
