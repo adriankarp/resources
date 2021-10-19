@@ -2,7 +2,7 @@
 ## A personal list of useful resources, tips&tricks and more
 
 
-(TO BE UPDATED! [include Faker.js, Semantic UI, Geolocation API ,...])
+(TO BE UPDATED! [include Faker.js, Semantic UI, Geolocation API , sketch2HTML, StoryBook, Jest])
 
 ## Table of contents
   * [HTML & CSS](#html---css)
