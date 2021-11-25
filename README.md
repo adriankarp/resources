@@ -2,7 +2,7 @@
 > a list of web development related stuff I stumble upon, or find useful
 
 
-- [dillinger](#dillinger)
+- [readme.so](#readme.so)
 - [generators](#generators)
 - [code guide](#code-guide)
 - [WTF, HTML and CSS?](#wtf--html-and-css-)
