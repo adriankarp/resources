@@ -16,11 +16,11 @@
 - [cloudinary](#cloudinary)
 
 
-### dillinger
+### readme.so
 
-web application used for markdown editing
+README.md generator + editor
 
-[click here](https://dillinger.io)
+[click here](https://readme.so/)
 
 _________________________________________________________________________________________________________________
 
