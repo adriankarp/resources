@@ -41,6 +41,7 @@ here, you’ll find code generators to help you with your front-end web projects
 * [HTML by webcode.tools](https://webcode.tools/generators/html)
 * [Meta Tags by webcode.tools](https://webcode.tools/generators/meta-tags)
 * [CSS by Zinglecode](https://css-generator.netlify.app/)
+* [coolors](https://coolors.co/)
 
 
 _________________________________________________________________________________________________________________
