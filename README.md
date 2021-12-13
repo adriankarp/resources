@@ -134,4 +134,11 @@ image and video API for easy storing and manipulation
 
 [click here](https://cloudinary.com)
 
+_________________________________________________________________________________________________________________
+
+### framer
+
+A production-ready motion library for React. Utilize the power behind Framer, the best prototyping tool for teams. Proudly open source.
+
+[click here](https://www.framer.com/motion/)
 
