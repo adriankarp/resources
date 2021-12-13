@@ -14,6 +14,7 @@
 - [react testing](#react-testing)
 - [unsplash](#unsplash)
 - [cloudinary](#cloudinary)
+- [framer](#framer)
 
 
 ### readme.so
