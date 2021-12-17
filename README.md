@@ -6,7 +6,6 @@
 - [generators](#generators)
 - [code guide](#code-guide)
 - [WTF, HTML and CSS?](#wtf--html-and-css-)
-- [a collection of cheatsheets](#a-collection-of-cheatsheets)
 - [faker.js](#fakerjs)
 - [material-ui](#material-ui)
 - [sketch2Code](#sketch2code)
@@ -15,6 +14,7 @@
 - [unsplash](#unsplash)
 - [cloudinary](#cloudinary)
 - [framer](#framer)
+- [react native project structure](#react-native-project-structure)
 
 
 ### readme.so
@@ -66,18 +66,7 @@ WTF, HTML and CSS? is a list of reasons HTML and CSS might make you say what the
 
 [click here](http://wtfhtmlcss.com/)
 
-_________________________________________________________________________________________________________________
-
-
-### a collection of cheatsheets
-
-* [HTML](https://htmlcheatsheet.com/)
-* [CSS](https://htmlcheatsheet.com/css/)
-* [JavaScript](https://htmlcheatsheet.com/js/)
-* [React](https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd)
-* [Mongoose](https://kb.objectrocket.com/mongo-db/the-mongoose-cheat-sheet-225)
-
-_________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________
 
 
 ### faker.js
@@ -143,3 +132,11 @@ A production-ready motion library for React. Utilize the power behind Framer, th
 
 [click here](https://www.framer.com/motion/)
 
+
+_________________________________________________________________________________________________________________
+
+### react-native-project-structure
+
+An efficient way to structure React Native projects
+
+[click here](https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/)
