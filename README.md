@@ -15,6 +15,7 @@
 - [cloudinary](#cloudinary)
 - [framer](#framer)
 - [react native project structure](#react-native-project-structure)
+- [react native boilerplate](#react-native-boilerplate)
 
 
 ### readme.so
@@ -140,3 +141,11 @@ ________________________________________________________________________________
 An efficient way to structure React Native projects
 
 [click here](https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/)
+
+_________________________________________________________________________________________________________________
+
+### react-native-boilerplate
+
+A React Native template for building solid applications
+
+[click here](https://github.com/thecodingmachine/react-native-boilerplate)
