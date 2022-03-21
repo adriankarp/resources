@@ -1,8 +1,9 @@
 # resources
-> a list of web development related stuff I stumble upon, or find useful
+> a list of development related stuff I stumble upon, or find useful
 
 
 - [readme.so](#readmeso)
+- [markdown TOC generator](#markdown-toc-generator)
 - [generators](#generators)
 - [code guide](#code-guide)
 - [WTF, HTML and CSS?](#wtf--html-and-css-)
@@ -14,8 +15,13 @@
 - [unsplash](#unsplash)
 - [cloudinary](#cloudinary)
 - [framer](#framer)
-- [react native project structure](#react-native-project-structure)
-- [react native boilerplate](#react-native-boilerplate)
+- [react-native-project-structure](#react-native-project-structure)
+- [react-native-boilerplate](#react-native-boilerplate)
+- [back4app](#back4app)
+- [Bitrise](#bitrise)
+- [reactotron](#reactotron)
+- [Flipper](#flipper)
+- [NativeBase](#nativebase)
 
 
 ### readme.so
