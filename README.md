@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
 standards for developing consistent, flexible, and sustainable HTML and CSS.
 
-[Click here](https://codeguide.co/)
+[click here](https://codeguide.co/)
 
 
 _________________________________________________________________________________________________________________
@@ -148,6 +148,45 @@ ________________________________________________________________________________
 
 ### react-native-boilerplate
 
-A React Native template for building solid applications
+nfinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more! 
 
-[click here](https://github.com/thecodingmachine/react-native-boilerplate)
+[click here](https://github.com/infinitered/ignite)
+
+_________________________________________________________________________________________________________________
+
+### back4app
+
+Low-code backend to build modern apps
+
+[click here](https://www.back4app.com/)
+
+_________________________________________________________________________________________________________________
+
+### Bitrise
+
+Save time, money, and developer frustration with fast, flexible, and scalable mobile CI/CD that just works.
+
+[click here](https://www.bitrise.io/)
+_________________________________________________________________________________________________________________
+
+### reactotron
+
+A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
+
+[click here](https://github.com/infinitered/reactotron)
+
+_________________________________________________________________________________________________________________
+
+### Flipper
+
+Extensible mobile app debugger
+
+[click here](https://fbflipper.com/)
+
+_________________________________________________________________________________________________________________
+
+### NativeBase
+
+NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web.
+
+[click here](https://nativebase.io/)
